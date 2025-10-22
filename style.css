@@ -39,10 +39,12 @@ body {
   margin: 0;
   padding: 0px;
 }
-.task-item, .section-title {
+.task-item,
+.section-title {
   list-style: none;
 }
-input, button {
+input, 
+button {
   outline: none;
 }
 button {
